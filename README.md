@@ -232,3 +232,9 @@ small wrapper that calls `BackupEngine().run_backup("incremental")` directly
 | Wrong passphrase | The app will tell you — re-enter the correct one |
 | PermissionError on files | Add them to exclude patterns |
 | Slow first backup | Full backup of a large home folder takes time |
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE).
