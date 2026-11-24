@@ -1,0 +1,25 @@
+# Local app data / never commit
+.cloudvault/
+config.json
+*.db
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.pem
+*.key
+*.sqlite
+*.sqlite3
+*.p12
+*.pfx
+credentials
+.aws/
+.claude/
+*.bak
+*.tmp
